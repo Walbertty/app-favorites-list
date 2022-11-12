@@ -11,6 +11,7 @@ Project built by me to train and use some acquired knowledge
 - HTML
 - CSS
 - JS
+- API
 - Git and Github
 
 ## Contact

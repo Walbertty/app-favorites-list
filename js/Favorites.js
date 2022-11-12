@@ -70,7 +70,8 @@ export class FavoritesView extends Favorites {
             const { value } = this.root.querySelector('.search input')
 
             this.add(value)
-        }
+            this.onadd()
+        }  
     }
 
     update() {

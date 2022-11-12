@@ -1,6 +1,6 @@
 # app-favorites-list
 
-![preview](./.Github/preview.png)
+![preview](./Github/preview.png)
 
 Project built by me to train and use some acquired knowledge
 
